@@ -1,0 +1,16 @@
+{
+    "id": "08e81ee2-e78e-4643-88cc-3a8a10a3256b",
+    "version": "0.0.1",
+    "requiredApiVersion": "^1.19.0",
+    "iconFile": "icon.png",
+    "author": {
+        "name": "LigeroSmart",
+        "homepage": "https://ligerosmart.com",
+        "support": "https://docs.ligerosmart.org"
+    },
+    "name": "ligerosmart-omnichannel-slashcommands",
+    "nameSlug": "ligerosmart-omnichannel-slashcommands",
+    "classFile": "LigerosmartOmnichannelSlashcommandsApp.ts",
+    "description": "Special commands for Omnichannel",
+    "implements": []
+}
